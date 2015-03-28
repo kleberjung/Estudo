@@ -1,0 +1,16 @@
+﻿Added files
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Palindrome.class
+#	new file:   Palindrome.java
+#	new file:   TesteFibonacci.class
+#	new file:   TesteFibonacci.java
+#
+# Untracked files:
+#	d50jh2jt.zb5.txt
+#
+
